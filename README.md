@@ -51,11 +51,13 @@
 
 ## 📸 Screenshots
 
-> Add screenshots or a short demo GIF here to give users a preview of the app.
+| Onboarding | Quran | Sura Details | Hadeeth |
+| :---: | :---: | :---: | :---: |
+| <img width="200" height="400" alt="onboarding" src="https://github.com/user-attachments/assets/c3f69094-3a21-4195-8879-0925b7d3a709" /> | <img width="200" height="400" alt="quran" src="https://github.com/user-attachments/assets/eeaaf2b0-a3c1-4469-a0b3-6d333c85f424" /> | <img width="200" height="400" alt="sura details" src="https://github.com/user-attachments/assets/3da75d47-8299-4af0-a0f2-a5d73248e058" /> | <img width="200" height="400" alt="hadeeth" src="https://github.com/user-attachments/assets/e23a89ac-41cb-4ebd-ac5c-c1c7e88efb4f" /> |
 
-| Home         | Quran        | Azkar        |
-|--------------|--------------|--------------|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| Sebha | Radio | Prayer Times | Azkar |
+| :---: | :---: | :---: | :---: |
+| <img width="200" height="400" alt="sebha" src="https://github.com/user-attachments/assets/400439bb-46ea-4bdb-a774-ec7509e5ce82" /> | <img width="200" height="400" alt="radio" src="https://github.com/user-attachments/assets/d1a827e6-4a63-48b4-8e2a-1d35f3c48586" /> | <img width="200" height="400" alt="praytimes" src="https://github.com/user-attachments/assets/bae74cd3-f424-4685-825c-13d26870ea81" /> | <img width="200" height="400" alt="azkar" src="https://github.com/user-attachments/assets/e681fa00-7a3b-4749-ae38-82dd52087389" /> |
 
 ## 🛠 Tech Stack
 
@@ -110,12 +112,13 @@ lib/
 - Custom fonts, including **Janna LT**.
 - Specialized Islamic-themed images and icons.
 
-## 🗺 Roadmap
+## WORK IN PROGRESS 
 
 - [ ] Qibla direction compass
 - [ ] Multi-language support (Arabic/English toggle)
 - [ ] Bookmark and favorites for Surahs/Azkar
-- [ ] Push notifications for prayer times
+- [ ] Push notifications for prayer times 
+- [ ] Radio
 
 ## 🤝 Contributing
 
